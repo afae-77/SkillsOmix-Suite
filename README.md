@@ -82,7 +82,29 @@ Once the project is published in a peer-reviewed journal or preprint server, we 
 Acknowledgments
 SkillsOmix-Suite is built with the belief that advanced scientific tools should be free, transparent, and accessible to all. We thank the open-source community and all contributors who share this vision.
 
+# SkillsOmix-Suite
 
+**SkillsOmix-Suite** is a free, open-source platform for transcriptome and genome analysis. It integrates statistical and bioinformatics pipelines with a modular, bilingual interface.
+
+## 🚀 Features
+- RNA-seq analysis (DESeq2, edgeR, GSEA)
+- Variant calling and annotation
+- Microbiome profiling
+- Interactive plots and dashboards
+- English/Arabic interface
+- Docker-ready and Linux-compatible
+
+## 🧪 Getting Started
+1. Clone the repo
+2. Install dependencies from `env/environment.yml`
+3. Run the backend API
+4. Upload count and metadata files via frontend
+
+## 🤝 Contributing
+We welcome pull requests, feature suggestions, and community modules. See `docs/architecture.md` for guidelines.
+
+## 📜 License
+GNU GPLv3
 
 
 
